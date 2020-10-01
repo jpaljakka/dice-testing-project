@@ -1,0 +1,17 @@
+{
+  "name": "diceproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "install": "^0.13.0",
+    "jest": "^26.4.2",
+    "npm": "^6.14.8"
+  }
+}
